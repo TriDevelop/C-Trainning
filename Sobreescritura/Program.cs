@@ -19,7 +19,7 @@
         {
            public override string Hi()
             {
-                return "Hola soy A";
+                return "Hola soy b desde feature";
             }
         }
     }
